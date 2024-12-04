@@ -1,4 +1,4 @@
-import {Player} from './Player.js'
+import { Player } from './Player.js'
 
 // Phaser Game Configuration with Arcade Physics enabled
 const config = {

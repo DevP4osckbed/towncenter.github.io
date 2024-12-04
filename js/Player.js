@@ -12,7 +12,6 @@ export class Player {
       this.head.setBounce(0.1);
   
       this.scene = scene;
-  
       // Initialize player speed and movement properties
       this.speed = 160;
       this.acceleration = 0.075;
